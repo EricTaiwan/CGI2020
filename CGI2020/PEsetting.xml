@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<setting>  
+  <PEGroup>
+    <PE>
+      <ID value="AAA1"/>
+      <Outputpath value="AAA"/>
+      <Titles value="AAA"/>
+      <Cols value="AAA"/>
+    </PE>
+    <PE>
+      <ID value="AAA2"/>
+      <Outputpath value="AAA"/>
+      <Titles value="AAA"/>
+      <Cols value="AAA"/>
+    </PE>
+    <PE>
+      <ID value="AAA3"/>
+      <Outputpath value="AAA"/>
+      <Titles value="AAA"/>
+      <Cols value="AAA"/>
+    </PE>
+
+  </PEGroup>
+</setting>
